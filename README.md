@@ -1,5 +1,5 @@
 ## Scrapy
 
-> This is a repo of the code that was used in this [tutorial](
+> This is a script based mostly on this [scrapy tutorial](
 https://learn.scrapinghub.com/scrapy/)
 
